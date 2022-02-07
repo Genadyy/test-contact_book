@@ -1,0 +1,27 @@
+.red{
+    background-color: #ff5c33;
+} 
+.yellow{
+    background-color: #ffd11a;
+}
+.green{
+    background-color: #00b3b3;
+}
+.purple{
+    background-color: #ff4d94;
+}
+.btn{
+    margin-left: 20px;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.btn1{
+    margin-left: 0;
+}
+.btn:hover{
+    box-shadow: 5px 5px 5px 5px gold;
+}
