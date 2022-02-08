@@ -158,7 +158,7 @@ const removeContactItem = (id, e) => {
           <h1 className='title'>Contact Book</h1>
        
         <Routes> 
-          <Route exact path = '/' element = {
+          <Route exact path = '/test-contact_book' element = {
               <ContactList 
                 contact={contact}
                 contacts={contacts}

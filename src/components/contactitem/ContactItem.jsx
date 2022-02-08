@@ -31,7 +31,7 @@ const ContactItem = (props) => {
 
     return (
         <div className={classes.page}>
-            <Link to='/' className={classes.link} onClick={clearInput}>{`< back to the contact list >`}</Link>
+            <Link to='/test-contact_book' className={classes.link} onClick={clearInput}>{`< back to the contact list >`}</Link>
             <h1 className={classes.title}>{contact.name} {contact.lastName}</h1>
             <div className={classes.content}>
                 <div className={classes.form}>
