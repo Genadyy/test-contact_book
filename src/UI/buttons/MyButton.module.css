@@ -23,5 +23,6 @@
     margin-left: 0;
 }
 .btn:hover{
+    border: 1px solid purple;
     box-shadow: 5px 5px 5px 5px gold;
 }
